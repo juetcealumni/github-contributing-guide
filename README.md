@@ -1,4 +1,4 @@
-### How to start contributing in github ?
+# How to start contributing in github ?
 
 Please follow the steps for any kind of open source contributions
 
